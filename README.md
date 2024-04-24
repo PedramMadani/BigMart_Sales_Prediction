@@ -17,7 +17,7 @@ Follow these steps to set up the project environment and run the models:
 ```
 
 ## Usage
-    Execute the following command to run the sales prediction model:
+   Execute the following command to run the sales prediction model:
 ```bash
    python sales_prediction.py
 ```
